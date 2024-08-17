@@ -10,6 +10,16 @@
 --roboto-mono: "Roboto Mono", monospace;
 }
 
+label{
+    font-size: 20px;
+}
+
+.checkbox{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
 *{
 font-weight: 400;
 }
